@@ -1,1 +1,1 @@
-Buraya projenin içeriklerini yazacağız..
+Github işlemi tmm
