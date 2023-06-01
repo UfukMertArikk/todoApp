@@ -40,8 +40,7 @@ function App() {
     setNewItem("");
 
     postData(item);
-  }
-  
+  } 
   // Verileri getirme işlemi
   const getData = () => {
     const dataRef = ref(database, "todos");
